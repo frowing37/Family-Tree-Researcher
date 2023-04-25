@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/C57jrAVhNib1FUTzU5ejVlKStghTcjx9GXG28hPkLd1so+WPxChlTnyql7vS4gnEcC5ToYEiv7cezX286maA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pc\\Desktop\\Prolab3_0\\Prolab3_0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\emgu.cv\\4.6.0.5131\\emgu.cv.4.6.0.5131.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\emgu.cv.bitmap\\4.6.0.5131\\emgu.cv.bitmap.4.6.0.5131.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\emgu.cv.runtime.windows\\4.6.0.5131\\emgu.cv.runtime.windows.4.6.0.5131.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\emgu.cv.ui\\4.6.0.5131\\emgu.cv.ui.4.6.0.5131.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.arm64\\19.33.31630\\emgu.runtime.windows.msvc.rt.arm64.19.33.31630.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.33.31630\\emgu.runtime.windows.msvc.rt.x64.19.33.31630.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.33.31630\\emgu.runtime.windows.msvc.rt.x86.19.33.31630.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\emgucv\\3.1.0.1\\emgucv.3.1.0.1.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\opentk\\1.1.2225\\opentk.1.1.2225.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\opentk.glcontrol\\1.1.2225\\opentk.glcontrol.1.1.2225.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\Pc\\.nuget\\packages\\zedgraph\\5.1.5\\zedgraph.5.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

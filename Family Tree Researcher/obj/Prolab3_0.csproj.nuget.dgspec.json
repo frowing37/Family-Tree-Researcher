@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pc\\Desktop\\Prolab3_0\\Prolab3_0.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pc\\Desktop\\Prolab3_0\\Prolab3_0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\Prolab3_0\\Prolab3_0.csproj",
+        "projectName": "Prolab3_0",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\Prolab3_0\\Prolab3_0.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\Prolab3_0\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.6.0.5131, )"
+            },
+            "Emgu.CV.UI": {
+              "target": "Package",
+              "version": "[4.6.0.5131, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.6.0.5131, )"
+            },
+            "EmguCV": {
+              "target": "Package",
+              "version": "[3.1.0.1, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "System.Collections.NonGeneric": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
